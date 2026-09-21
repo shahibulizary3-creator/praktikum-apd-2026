@@ -22,7 +22,6 @@ total_harga_USD = total_harga / kurs_USD
 slice_negatif = harga_marchandise[-4:-1]
 
 
-print("sohib ganteng")
 print ("merchandise_1 :", merchandise_1)
 print ("merchandise_2 :", merchandise_2)
 print ("merchandise_3 :", merchandise_3)
