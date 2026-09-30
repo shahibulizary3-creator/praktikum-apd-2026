@@ -64,4 +64,3 @@ if username == nama_benar and nim_benar :
 
 else :
     print ("login gagal, nama/nim anda salah!!! program di hentikan")
-    print ("selesai")
