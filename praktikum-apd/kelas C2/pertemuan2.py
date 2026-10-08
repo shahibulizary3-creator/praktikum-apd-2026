@@ -32,7 +32,8 @@
 # nama = input("Masukan nama anda: ")
 # print(nama)
 
-a = input("masukkan nilai a")
-b = input("masukkan nilai b")
-c = a * b
-print (c)
+# a = input("masukkan nilai a")
+# b = input("masukkan nilai b")
+# c = a * b
+# print (c)
+
